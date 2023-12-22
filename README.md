@@ -11,7 +11,7 @@ A simple shell like bash or zsh. Intended to run on Unix-like system (including 
     - [x] pwd
     - [x] help
     - [x] exit
-    - [] history (on going updated)
+    - [ ] history (on going updated)
 
 ```
 /Users/tran/Desktop/Shell/build$ ls -al
