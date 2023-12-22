@@ -41,8 +41,8 @@ history: print the history of commands
 
 ## Quick note
 
-- The program is signal safe, that means using all non-buffered I/O like read() and write() to print message and read user input.
-- More information, please take a look at `signal-safety(7)` man page.
+- The program is signal safe, that means using all non-buffered I/O like read() and write(), etc; to print message and read user input.
+- For more information, please take a look at `signal-safety(7)` man page.
 
 ## Build instruction
 
